@@ -23,5 +23,6 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 hello world
+hello world for me
 
 
